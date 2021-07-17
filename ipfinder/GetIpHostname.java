@@ -3,10 +3,6 @@ package ipfinder;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-/**
- * @author Crunchify.com
- */
-
 public class GetIpHostname {
 
     public static void main(String[] args) {
